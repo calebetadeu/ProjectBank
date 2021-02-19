@@ -1,3 +1,5 @@
+package bankdigital.brasil.example
+
 class Pessoa {
     var nome:String="Calebe"
     var cpf:String="4552.544.6554-87"
